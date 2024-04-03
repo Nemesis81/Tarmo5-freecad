@@ -1,6 +1,10 @@
 # Tarmo5-freecad
+## assembly 3 version
 Tarmo5 from https://www.reddit.com/r/EngineeringNS/ in freecad format, assy with assembly3 from realthunder available [here](https://github.com/realthunder/FreeCAD/releases)
 
 the original files are publicly available [here](https://cad.onshape.com/documents/866dfd956b60f623aa8e6234/w/2ed44a3da1c969b8110877f0/e/3e10e517f2654f1bfe05ac4d?renderMode=0&uiState=63a740a65ee1377b1c8eb949)
 
 ![Tarmo](https://github.com/Nemesis81/Tarmo5-freecad/assets/17654063/06390bde-ed3f-4bc3-87fa-5d25671627d4)
+
+## main Dev Assembly from 0.22
+Added the new version of the assembly done with the last workbench assembly in FreeCAD. Same principle as the previous one just to test the new assembly workbench.
